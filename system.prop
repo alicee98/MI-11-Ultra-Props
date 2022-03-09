@@ -1,0 +1,62 @@
+# Touch response
+touch.pressure.scale=0.0001
+view.scroll_friction=10
+touch.size.calibration=geometric
+touch.pressure.calibration=amplitude
+touch.size.scale=1
+touch.size.bias=0
+touch.size.isSummed=0
+touch.orientation.calibration=interpolated
+touch.distance.calibration=area
+touch.distance.scale=0
+touch.coverage.calibration=box
+touch.gestureMode=spots
+MultitouchMinDistance=1px
+MultitouchSettleInterval=0.1ms
+TapInterval=0.1ms
+TapSlop=1px
+windowsmgr.max_events_per_sec=180
+ro.min_pointer_dur=4
+ro.max.fling_velocity=18000
+ro.min.fling_velocity=6000
+ro.product.multi_touch_enabled=true
+ro.product.max_num_touch=10
+ro.securestorage.knox=false
+security.mdpp=none
+security.mdpp.result=none
+af.resampler.quality=255
+persist.sys.scrollingcache=3
+persist.af.resampler.quality=255
+persist.dev.pm.dyn_samplingrate=1
+persist.service.lgospd.enable=0
+persist.service.pcsync.enable=0
+
+#Improve sliding response
+windowsmgr.max_events_per_sec=90
+view.scroll_friction=0
+ro.min_pointer_dur=8
+touch.deviceType=touchScreen
+
+#Improve global touch screen response
+debug.egl.hw=1
+video.accelerate.hw=1
+view.scroll_friction=0
+
+#Open the first-in-first-out interface thread
+sys.use_fifo_ui=1
+
+
+
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.shared=speed
+
+# Unlock FPS
+ro.product.system.model=M2102K1C
+ro.product.brand=xiaomi
+ro.product.device=star
+ro.product.brand=Xiaomi
+ro.product.manufacturer=Xiaomi
+ro.product.model=M2102K1C
+ro.product.odm.brand=Xiaomi
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=M2102K1C
