@@ -14,21 +14,11 @@ Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improveme
 * Universal (All Devices)
 
 ## Instructions
-* First Install and Update Module (Magisk 23.0)
+* First Install and Update Module (Magisk 23.0+)
    * Open the Magisk App.
    * Select Modules option.
    * Select Install from storage.
    * Select MI 11 Ultra Props Module and flash it.
-   * Follow the instructions.
-   * Wait until the flash process is complete.
-   * Reboot.
-   * Done!
-
-* Update Module (Magisk 24.0+)
-   * Open the Magisk App.
-   * Select Modules option.
-   * At the MI 11 Ultra Props Module press Update.
-   * Select Install.
    * Follow the instructions.
    * Wait until the flash process is complete.
    * Reboot.
