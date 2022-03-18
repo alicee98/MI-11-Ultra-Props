@@ -45,3 +45,6 @@ This module will not work if You're using Touch Improvement.
 
 **v2**
 * Add Bypasser For Not Supported App For Some Device In Play Store
+
+**v3**
+* Add New Tweaks Performance For Gaming
