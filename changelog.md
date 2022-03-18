@@ -14,3 +14,6 @@ More info about this module please read on MI 11 Ultra Props official github.
 ## Changelog
 **v2**
 * Add Bypasser For Not Supported App For Some Device In Play Store
+
+**v3**
+* Add New Tweaks Performance For Gaming
