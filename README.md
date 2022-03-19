@@ -52,3 +52,6 @@ This module will not work if You're using Touch Improvement.
 **v4**
 * Add updateJson
 * Add Fast Charge Feature
+
+**v5**
+* Remove Internet Tweaks Beacuse Make Some Apps Crash In Qcom Chipset
