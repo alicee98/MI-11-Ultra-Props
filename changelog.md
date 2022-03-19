@@ -17,3 +17,7 @@ More info about this module please read on MI 11 Ultra Props official github.
 
 **v3**
 * Add New Tweaks Performance For Gaming
+
+**v4**
+* Add updateJson
+* Add Fast Charge Feature
