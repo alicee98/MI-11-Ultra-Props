@@ -48,3 +48,7 @@ This module will not work if You're using Touch Improvement.
 
 **v3**
 * Add New Tweaks Performance For Gaming
+
+**v4**
+* Add updateJson
+* Add Fast Charge Feature
