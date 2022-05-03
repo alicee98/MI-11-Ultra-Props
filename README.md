@@ -55,3 +55,6 @@ This module will not work if You're using Touch Improvement.
 
 **v5**
 * Remove Internet Tweaks Beacuse Make Some Apps Crash In Qcom Chipset
+
+**v6**
+* Changes The Device Props And Make It Working In Realme/Oppo Devices
