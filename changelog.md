@@ -24,3 +24,6 @@ More info about this module please read on MI 11 Ultra Props official github.
 
 **v5**
 * Remove Internet Tweaks Beacuse Make Some Apps Crash In Qcom Chipset
+
+**v6**
+* Changes The Device Props And Make It Working In Realme/Oppo Devices
