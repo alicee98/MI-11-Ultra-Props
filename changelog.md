@@ -9,7 +9,7 @@ Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improveme
 
 ## Notes
 More info about this module please read on MI 11 Ultra Props official github.
-* https://github.com/alicee98/MI-11-Ultra-Props
+* [MI 11 Ultra Props Repo](https://github.com/alicee98/MI-11-Ultra-Props)
 
 ## Changelog
 **v2**
