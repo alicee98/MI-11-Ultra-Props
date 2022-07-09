@@ -27,3 +27,6 @@ More info about this module please read on MI 11 Ultra Props official github.
 
 **v6**
 * Changes The Device Props And Make It Working In Realme/Oppo Devices
+
+**V7**
+* Fix Update.
