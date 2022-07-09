@@ -58,3 +58,6 @@ This module will not work if You're using Touch Improvement.
 
 **v6**
 * Changes The Device Props And Make It Working In Realme/Oppo Devices
+
+**V7**
+* Fix Update.
