@@ -5,7 +5,7 @@ Unlock Ultra Graphics And 120 FPS for Mobile Legends: Bang Bang, Touch Improveme
 * alicee98 aka Yudha
 
 ## Contact
-* t.me/alicee98
+* [@yudhased](https://t.me/yudhased)
 
 ## Requirement
 * Magisk 23.0+
